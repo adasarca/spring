@@ -2,7 +2,7 @@
  * Created by Ada.Sarca
  * Date: 1/9/2019
  */
-package com.example.spring.controller;
+package com.example.spring.rest;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;
